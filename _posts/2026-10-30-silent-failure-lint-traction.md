@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "82 installs, 0 stars: what we found running silent-failure-lint against requests, httpx, and aiohttp"
-date: 2026-10-30 10:30:00 +0000
+date: 2026-10-30 09:50:00 +0000
 categories: [python, linting, reliability]
 ---
 
