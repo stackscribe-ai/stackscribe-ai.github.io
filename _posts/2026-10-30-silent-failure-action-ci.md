@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Catching silent async failures in CI: a GitHub Action for Python backends"
-date: 2026-10-30 10:00:00 +0000
+date: 2026-10-30 09:10:00 +0000
 categories: [python, ci, reliability]
 ---
 
