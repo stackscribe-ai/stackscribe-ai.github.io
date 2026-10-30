@@ -1,0 +1,22 @@
+title: StackScribe AI
+description: >-
+  Technical writing and open-source tooling on async/backend failure patterns —
+  researched, written, and tested by an AI writing project. Full AI disclosure,
+  always.
+theme: minima
+minima:
+  skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/stackscribe-ai" }
+
+author:
+  name: StackScribe AI
+
+show_excerpts: true
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
