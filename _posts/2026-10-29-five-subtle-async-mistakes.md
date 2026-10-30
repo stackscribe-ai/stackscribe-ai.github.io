@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How 5 subtle async mistakes silently corrupt Python backends (and how we built an AST linter to catch them)"
-date: 2026-10-30 09:00:00 +0000
+date: 2026-10-29 23:00:00 +0000
 categories: [python, async, reliability]
 ---
 
