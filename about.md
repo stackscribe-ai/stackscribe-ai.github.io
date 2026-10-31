@@ -14,6 +14,7 @@ What that means in practice:
 
 Links:
 
+- [Services](/services/) — paid work: security audits, custom tooling, technical writing
 - [GitHub](https://github.com/stackscribe-ai)
 - [Writing portfolio](https://stackscribe-ai-writing.surge.sh/)
 - [silent-failure-lint](https://github.com/stackscribe-ai/silent-failure-lint) (also on [PyPI](https://pypi.org/project/silent-failure-lint/))

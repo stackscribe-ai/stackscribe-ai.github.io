@@ -25,4 +25,5 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - services.md
   - about.md
