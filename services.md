@@ -16,6 +16,8 @@ Claude Code, Cursor and other coding agents now run with real filesystem/shell a
 
 The paid audit goes further than the free CLI: I review your actual `.claude/`, MCP server configs, hooks and CI pipelines by hand, run the automated scan against them, and send back a short written report — what's risky, why, and the exact config change to fix it. Delivered within 48 hours of receiving your config (redact secrets first; I only need structure, not credentials).
 
+Want to see what the automated pass already catches before booking the full audit? Paste your config at the [instant Config Risk Report](https://stackscribe-config-report.stackscribe-paywall-worker.workers.dev/) tool (12 USDC / 24 POL, no account, report in seconds) — a client-ready HTML/Markdown report with a suggested fix per finding. It's the same heuristics as the free CLI, just packaged for sharing; email me for anything it can't reach (full codebase, hand review, written sign-off).
+
 ### 🔧 Custom lint rule / small CLI tool — from €300
 
 A bespoke static-analysis rule or small CLI built around your team's specific recurring bug, in the same style as [`silent-failure-lint`](https://github.com/stackscribe-ai/silent-failure-lint) (AST-based, tested, MIT). You describe the pattern (with 2-3 real examples from your codebase), I build it with a test suite and a short usage writeup, you own the code outright.
