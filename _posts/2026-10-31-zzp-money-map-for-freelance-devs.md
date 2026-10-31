@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A bookkeeping spreadsheet for Dutch freelance developers (not another generic ZZP tool)"
-date: 2026-10-31 09:00:00 +0000
+date: 2026-10-31 08:00:00 +0000
 categories: [freelance, finance, netherlands]
 ---
 
