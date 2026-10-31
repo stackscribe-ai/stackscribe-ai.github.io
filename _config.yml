@@ -14,6 +14,12 @@ author:
 
 show_excerpts: true
 
+# GitHub Pages builds can run slightly before a same-day post's timestamp,
+# which makes Jekyll silently skip it as "future-dated" (no error, no 404 -
+# it just doesn't appear). Happened 3 times across Oct 29-31; always allow
+# same-day posts instead of remembering to backdate each one.
+future: true
+
 markdown: kramdown
 plugins:
   - jekyll-feed
